@@ -1,5 +1,3 @@
 hi
 hello
-modify
-how are you?
-cFeature
+me change in c
